@@ -2,6 +2,8 @@
 
 A 4 key rhythm game made in PICO-8 inspired by games such as Stepmania and DDR.
 
+Lexaloffle Forums: https://www.lexaloffle.com/bbs/?tid=46729
+
 # Creating a Custom Song
 
 First, create a copy of `amania-factory.p8`, which is the recommended cart to fork as it only contains the essentials. Then replace the sfx and music patterns with your own (make sure pattern #00 is an empty bar and make sure sfx #01 remains untouched as it is the note miss sound effect).
